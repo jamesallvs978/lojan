@@ -45,9 +45,9 @@ body {
 
 /* Banner */
 .banner {
-    background: linear-gradient(to right, #1e90ff, #4682b4);
+    background: url('https://via.placeholder.com/1600x600?text=BANNER+DE+VENDAS') no-repeat center center/cover;
     color: #fff;
-    padding: 60px 20px;
+    padding: 80px 20px;
     text-align: center;
     position: relative;
 }
